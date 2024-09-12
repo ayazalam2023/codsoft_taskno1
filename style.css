@@ -1,8 +1,8 @@
 /* CSS (Save this in a file called styles.css) */
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 25px 50px 75px 100px;
+    padding: 25px 50px 75px 100px;
     background-color: #f4f4f4;
 }
 
